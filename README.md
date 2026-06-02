@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Animated Web-Apps**
 
-- 🌱 I’m currently learning **NextJS, Svelte, Java**
+- 🌱 I’m currently learning **NextJS,Java**
 
 - 👯 I’m looking to collaborate on **MERN stack Projects**
 
